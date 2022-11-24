@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yijun1011
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning computer vision
+- 👀 I’m interested in Rehabilitation Exoskeleton
+- 🌱 I’m currently learning Gait Analysis
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me yijunzhao1011@gmail.com
 
